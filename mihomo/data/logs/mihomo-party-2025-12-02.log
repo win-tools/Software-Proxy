@@ -1,0 +1,4 @@
+[2025-12-02T12:00:17.416Z] [INFO] [manager] Admin privileges confirmed via fltmc
+[2025-12-02T12:17:22.710Z] [DEBUG] [tray] Current translation for tray.showWindow: 显示窗口
+[2025-12-02T12:17:22.711Z] [DEBUG] [tray] Current translation for tray.hideFloatingWindow: 关闭悬浮窗
+[2025-12-02T12:17:22.712Z] [DEBUG] [tray] Current translation for tray.showFloatingWindow: 显示悬浮窗

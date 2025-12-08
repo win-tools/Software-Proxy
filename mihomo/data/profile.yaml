@@ -1,0 +1,12 @@
+items:
+  - id: 1987182ef7b
+    name: Remote File
+    type: remote
+    url: https://oppaapp.com/sub.yaml
+    substore: false
+    interval: 0
+    override: []
+    useProxy: false
+    allowFixedInterval: false
+    updated: 1765208491410
+current: 1987182ef7b
